@@ -1,6 +1,5 @@
 ## DevOps Project: On-Premises Deployment on RHEL 9
 
----
 
 # Introduction
 
