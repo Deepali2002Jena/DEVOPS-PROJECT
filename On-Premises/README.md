@@ -8,7 +8,7 @@
 This project provides an on-premises deployment of a DevOps environment, leveraging MySQL, Memcache, RabbitMQ, Tomcat, and Nginx on Red Hat Enterprise Linux 9 (RHEL 9). It is designed for scalability, high availability, and efficient resource management.
 
 
-## Prerequisites
+# Prerequisites
 Before proceeding, ensure the following:
 •	A fresh installation of RHEL 9 for 5 VM.
 •	User with sudo privileges.
